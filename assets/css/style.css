@@ -284,6 +284,26 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media (max-width: 540px) {
+  #hero h1 {
+    margin-left: 500px;
+    font-size: 20px;
+    line-height: 25px;
+    
+  
+   
+  }
+
+  #hero p{
+    margin-left: 450px;
+    font-size: 20px;
+    
+  }
+
+
+}
+
+
 @media (max-width: 414px) {
   #hero h1 {
     margin-left: 500px;
